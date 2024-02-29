@@ -1,5 +1,5 @@
 import en from '@vueform/vueform/locales/en'
-import tailwind from '@vueform/vueform/themes/tailwind'
+import tailwind from '@vueform/vueform/dist/tailwind'
 import builder from '@vueform/builder/plugin'
 
 export default {
